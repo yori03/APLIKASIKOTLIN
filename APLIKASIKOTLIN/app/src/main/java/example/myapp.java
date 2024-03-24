@@ -1,2 +1,4 @@
-package example;public class myapp {
+package example;
+
+public class myapp {
 }
